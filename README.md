@@ -4,15 +4,15 @@ This repository contains the projects I have worked to build my sql portfolio
 ## 📚 Table of Contents
 1. 🍜 Case Study #1: Danny's Diner 
 <img src="https://user-images.githubusercontent.com/81607668/127727503-9d9e7a25-93cb-4f95-8bd0-20b87cb4b459.png" alt="Image" width="500" height="520">
-View case study questions and their solutions here(https://github.com/keyura99/SQL-Portfolio/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution%20%231.sql)
+[View case study questions and their solutions here](https://github.com/keyura99/SQL-Portfolio/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution%20%231.sql)
 
 2.🍕 Case Study #2 Pizza Runner
 
 <img src="https://user-images.githubusercontent.com/81607668/127271856-3c0d5b4a-baab-472c-9e24-3c1e3c3359b2.png" alt="Image" width="500" height="520">
-View case study questions and their solutions here(https://github.com/keyura99/SQL-Portfolio/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Sql%20solution/1.%20Pizza%20Metrics.sql)
+[View case study questions and their solutions here](https://github.com/keyura99/SQL-Portfolio/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Sql%20solution/1.%20Pizza%20Metrics.sql)
 
 3. Case study #3 - Marketing Analytics
-View solution here(https://github.com/keyura99/SQL-Portfolio/blob/main/Case%20Study%20%233%20-%20Market%20Analytics/Solution.md)
+[View solution here](https://github.com/keyura99/SQL-Portfolio/blob/main/Case%20Study%20%233%20-%20Market%20Analytics/Solution.md)
 
 ## ✅ Learning Outcomes
 
